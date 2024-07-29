@@ -1,0 +1,14 @@
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\bin\Debug\net8.0\UnderstandStrings.exe
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\bin\Debug\net8.0\UnderstandStrings.deps.json
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\bin\Debug\net8.0\UnderstandStrings.runtimeconfig.json
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\bin\Debug\net8.0\UnderstandStrings.dll
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\bin\Debug\net8.0\UnderstandStrings.pdb
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.dll
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\refint\UnderstandStrings.dll
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.pdb
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\ref\UnderstandStrings.dll
