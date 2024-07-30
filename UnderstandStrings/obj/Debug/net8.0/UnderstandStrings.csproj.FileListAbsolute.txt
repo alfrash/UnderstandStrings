@@ -12,3 +12,4 @@ C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8
 C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.pdb
 C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.genruntimeconfig.cache
 C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\ref\UnderstandStrings.dll
+C:\Users\ahmed\Desktop\csharp\UnderstandStrings\UnderstandStrings\obj\Debug\net8.0\UnderstandStrings.sourcelink.json

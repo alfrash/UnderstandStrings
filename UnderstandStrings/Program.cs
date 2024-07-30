@@ -1,14 +1,18 @@
 ﻿
 
+using System.Text;
+
 internal class Program
 {
     private static void Main(string[] args)
     {
-        StrFormat();
-        JoinAndSplit();
+        // StrFormat();
+        // JoinAndSplit();
+        StringBuilder();
     }
 
-    static void StrFormat(){
+    static void StrFormat()
+    {
         string str = "Hello {0} my name is {1}----{0}";
         Console.WriteLine(str);
         str = string.Format(str, "mohamed", "ahmed");
@@ -30,7 +34,8 @@ internal class Program
         Console.WriteLine(yourNumber);
     }
 
-    static void JoinAndSplit() {
+    static void JoinAndSplit()
+    {
         // Split with ,
         Console.Write("enter numbers split with , :");
         string input = Console.ReadLine()!;
@@ -46,5 +51,19 @@ internal class Program
         string[] myName = ["ahmed", "mohamed", "alfrash",];
         string name = string.Join(" ", myName);
         Console.WriteLine(name);
+    }
+
+    static void StringBuilder()
+    {
+        string str = "hello";
+        str += " ahmed";
+        StringBuilder sb = new StringBuilder();
+        sb.Append("mohamed");
+        sb.Append(" alfrash");
+        sb.AppendLine(" hi hi hi");
+        Console.WriteLine(sb.ToString());
+        Console.WriteLine($"sb.Length = {sb.Length}");
+        Console.WriteLine($"sb.Capacity = {sb.Capacity}");
+        Console.WriteLine($"sb.MaxCapacity = {sb.MaxCapacity}");
     }
 }
